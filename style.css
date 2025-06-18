@@ -1,0 +1,38 @@
+html {
+    background-color: #f0f8ff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+h1 {
+    font-size: 1.6rem;
+}
+
+h2 {
+    font-size: 1.4rem;
+}
+
+h3 {
+    font-size: 1.2rem;
+}
+
+h4 {
+    font-size: 1.1rem;
+}
+#hobbies {
+    ul{
+        list-style-type: square;
+    }
+}
+.e {
+    font-style: italic;
+}
+a:visited {
+    color: green;
+}
+
+a:link {
+    color: green;
+}
+a:hover {
+    background-color: yellow;
+}
